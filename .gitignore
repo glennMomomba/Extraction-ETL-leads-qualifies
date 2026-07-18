@@ -1,0 +1,12 @@
+# Masquer les fichiers de configuration contenant les variables et clés
+.env
+
+# Masquer les fichiers Excel générés par le scraper (pour ne pas surcharger ton git)
+*.xlsx
+*.csv
+
+# Fichiers système et cache Python
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
