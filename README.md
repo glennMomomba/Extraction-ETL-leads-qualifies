@@ -8,6 +8,8 @@ Un script d'extraction automatisé et intelligent pour collecter des leads B2B q
 - **Qualification Business :** Analyse algorithmique des manquements (absence de site web, e-réputation critique).
 - **Design Excel Premium :** Génération directe d'un fichier `.xlsx` stylisé (En-têtes en gras, contenu centré, codes couleurs d'urgence).
 
+![Démonstration du Scraper](demo.gif)
+
 ## 🛠️ Installation & Configuration
 
 1. Clonez ou copiez le dossier du projet.
